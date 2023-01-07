@@ -1,5 +1,8 @@
 # Template for React + Typescript + Tailwind + Vite + pnpm
 
+## Usage of template (delete after creating folder)
+- run `npx degit https://github.com/ben-xD/react-typescript-tailwind-vite#main project_name`, where project_name is the folder you want the files to be contained in.
+
 ## Usage
 
 - Prerequisites: install pnpm
